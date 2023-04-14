@@ -1,33 +1,43 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn }) => {
   let caption = `
-╭────═[Ikratos-MD-v1]═────⋆
+╭────═[💖Dinuwa Official²⁰²³💖]═────⋆
 │╭───────────────···
 ┴│☂︎    HEY ${conn.getName(m.sender)}
-⬡│☂︎ 🤪I\'m alive now..🥰
+⬡│☂︎ 🤪I\'m alive now..Dinuwa Official²⁰²³🥰
 ┬╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│            *Ikratos-MD-v1*
+┴│            *Dinuwa Official²⁰²³*
 ⬡│☂︎ *WHATSAPP BOT CODED BY👇🏽*
-⬡│☂︎           *Ahmad Ali🇵🇰*
-⬡│☂︎           *OWNER:👇🏽*
-⬡│☂︎ *wa.me/923470027813*
-⬡│☂︎ *Don\'t call owner or you will be*
-⬡│☂︎ *Ignored or blocked without*
-⬡│☂︎           *warning 🥴😹*
-┬│☂︎ *Hehehehe...🤪😸😸*
-│╰────────────────···
-┠─────═[ GUIDE ]═─────⋆
-│╭────────────────···
-┴│☂︎ _*👇🏽Litle Guide to use bot👇🏽*_
-⬡│☂︎ .menu *All menu of bot*
-⬡│☂︎ .sticker *Image to sticker*
-⬡│☂︎ .play *Youtube video/audio*
-┬│☂︎ .gimage *Google image downloader*
+⬡│☂︎           *Dinuwa Official²⁰²³*
+⬡│☂︎           *OWNER:Dinuwa Official²⁰²³*
+⬡│☂︎ *wa.me/94740804536*
+┏ ┅ ━━━━━━━━━ ┅ ➔
+┇ 《 Dinuwa MD BOT 》
+┣ ┅ ━━━━━━━━━ ┅ ➔
+┃  
+┃ 
+┃ 
+┃ ❤️ Install Bot  : https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V3
+┃ 
+┃ ❤️ Join PUBLIC group : https://chat.whatsapp.com/IKbvhlnSXFWDnW7ZxSWwLN
+  💖 JOIN SUPPORT GROUP : https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S
+┃ 
+┃ ❤️ RamUsage  : 20.23 GB / 62.14 GB
+┃ 
+┃ ❤️ Version  : V3
+┃
+┃ ❤️ Time : 13:09:07
+┃ 
+┃ ❤️ Owner : Dinuwa Official 
+┃
+┃ ❤️ Powered By  +94740804536
+┗ ┅ ━━━━━━━━━ ┅ ➔
+❤️Dinuwa MD BOT ❤️
 │╰────────────────···
 ╰──────────═┅═───────
-*Thanks For Using Ikratos-MD-v1 ✍🏽🌿🥰*
+*Thanks For Using 💖Dinuwa Official²⁰²³💖*
 `.trim()
   m.reply(caption)
 }
