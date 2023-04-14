@@ -1,21 +1,29 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let teks = `
-┌─「 Donation • Pulsa 」
-│ • *Indosat:* [${global.ppulsa}]
-❏────
-
-┌─「 Donation • Non Pulsa 」
-│ • *Dana:* [${global.pdana}]
-│ • *Saweria:* [${global.psaweria}]
-❏────
+┏ ┅ ━━━━━━━━━ ┅ ➔
+┇▁ ▂ ▃ ▅ ▆ ▇ █💖Dinuwa Official²⁰²³💖█ ▇ ▆ ▅ ▃ ▂ ▁
+┣ ┅ ━━━━━━━━━ ┅ ➔
+┃
+┃  ↪️ *Fᴏʟʟᴏᴡ ᴍᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs*
+┃ 
+┃💖 Cᴏɴᴛᴀᴄᴛ Mᴇ ᴏɴ Wʜᴀᴛsᴀᴘᴘ 💖
+┃ 
+┃ *http://wa.me/94740804536* 
+┃ 
+┃💖  Whatsapp Group 💖 
+┃
+┃https://chat.whatsapp.com/IKbvhlnSXFWDnW7ZxSWwLN   
+┃
+┃ *ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ Dinuwa Official²⁰²³*
+┗ ┅ ━━━━━━━━━ ┅ ━➔
 `
 
 let you = flaaa.getRandom()
 
 const buttons = [
-  {buttonId: '.? all', buttonText: {displayText: 'ʙᴀᴄᴋ ᴛᴏ ᴀʟʟ ᴍᴇɴᴜ'}, type: 1},
-  {buttonId: '.ping', buttonText: {displayText: 'ᴘɪɴɢ'}, type: 1},
-  {buttonId: '.creator', buttonText: {displayText: 'ᴄʀᴇᴀᴛᴏʀ'}, type: 1}
+  {buttonId: '.? all', buttonText: {displayText: '💖 ᴍᴇɴᴜ 💖'}, type: 1},
+  {buttonId: '.ping', buttonText: {displayText: '💖 ᴘɪɴɢ 💖'}, type: 1},
+  {buttonId: '.creator', buttonText: {displayText: '💖 ᴄʀᴇᴀᴛᴏʀ 💖'}, type: 1}
 ]
 
 const templateMessage = {
