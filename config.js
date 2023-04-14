@@ -29,7 +29,7 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
     // Offset -420 is 18.00
     // Offset    0 is  0.00
     // Offset  420 is  7.00
-    let weton = ['Pahing', 'Pon', 'Wage', 'Kliwon', 'Legi'][Math.floor(d / 84600000) % 5]
+    let weton = ['💖', '💖', '💖', '💖', 'Legi'][Math.floor(d / 84600000) % 5]
     let week = d.toLocaleDateString(locale, { weekday: 'long' })
     let date = d.toLocaleDateString(locale, {
       day: 'numeric',
