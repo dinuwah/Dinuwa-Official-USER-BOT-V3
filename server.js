@@ -4,7 +4,7 @@ let app = global.app = express()
 
 function connect(PORT) {
 	
-	app.get('/', (req, res) => res.send('Halo Lort'))
+	app.get('/', (req, res) => res.send('Hi බොසා this is 💝 Dinuwa Official²⁰²³ 💝'))
 	
 	app.get('/nowa', async (req, res) => {
 		let q = req.query.number, regex = /x/g
