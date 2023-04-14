@@ -1,4 +1,4 @@
-onsole.log('🐾 Starting...')
+console.log('🐾 Starting...')
 
 import yargs from 'yargs'
 import cfonts from 'cfonts'
