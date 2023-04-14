@@ -14,7 +14,7 @@
  let handler = async(m, { conn, usedPrefix, text, args, command }) => {
  let name = await conn.getName(m.sender)
  try {
-   if (!text) throw `Where is the text?\nExample; *${usedPrefix + command}* arcade`
+   if (!text) throw `Where is the text?\nExample; *${usedPrefix + command}* 💖 Dinuwa Official²⁰²³ 💖`
    let cari = await youtubeSearch(`${text}`)
      let dapet = cari.video
      let listSections = []
@@ -24,7 +24,7 @@
            ['Audio 🎧', usedPrefix + 'ytmp3 ' + v.url + ' yes', '\n⌚ *Duration:* ' + v.durationH + '\n⏲️ *Uploaded:* ' + v.publishedTime + '\n *Views:* ' + v.view + '\n📎 *Url:* ' + v.url]
          ]])
    })
-   return conn.sendList(m.chat, '*───「 Youtube Search 」───*', `Please choose the type below...\n*Your requested text:* ${text}\n\nRetype *${usedPrefix + command}* your text to change the text again`, author, `YouTube Search 🔎`, listSections, m)
+   return conn.sendList(m.chat, '*───「 💖 Dinuwa Official²⁰²³ 💖 Youtube Search 」───*', `Please choose the type below...\n*Your requested text:* ${text}\n\nRetype *${usedPrefix + command}* your text to change the text again`, author, `YouTube Search 🔎`, listSections, m)
   } catch {
     await conn.reply(m.chat, global.wait, m)
     let cara = await yts(text)
@@ -36,7 +36,7 @@
               ['Audio 🎧', usedPrefix + 'ytmp3 ' + `${v.url}` + ' yes', '\n⌚ *Duration:* ' + `${v.timestamp}` +  '\n📎 *Url:* ' + `${v.url}`]
             ]])
       })
-     return conn.sendList(m.chat, '*───「 Youtube Search 」───*', `Please choose the type below...\n*Your requested text:* ${text}\n\nRetype *${usedPrefix + command}* your text to change the text again`, author, `YouTube Search 🔎`, listSections2, m)
+     return conn.sendList(m.chat, '*───「 💖 Dinuwa Official²⁰²³ 💖 Youtube Search 」───*', `Please choose the type below...\n*Your requested text:* ${text}\n\nRetype *${usedPrefix + command}* your text to change the text again`, author, `YouTube Search 🔎`, listSections2, m)
   }
  }
  handler.help = ['ytsearch <query>']
@@ -71,7 +71,7 @@ import { WAConnection } from '@adiwajshing/baileys';
 
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
   let name = await conn.getName(m.sender);
-  if (!text) throw `Where is the text?\nExample: *${usedPrefix + command}* arcade`;
+  if (!text) throw `Where is the text?\nExample: *${usedPrefix + command}* 💖 Dinuwa Official²⁰²³ 💖`;
 
   let cari = await youtubeSearch(`${text}`);
   let dapet = cari.video;
@@ -81,7 +81,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
     resultText += `${index + 1}. ${v.title}\n*Duration:* ${v.durationH}\n*Url:* ${v.url}\n____________\n\n`;
   });
 
-  let message = `*───「 Youtube Search 」───*\n\nPlease select the number of the video you want to download by replying to this message with the number listed.\n*Text you requested:* ${text}\n\nRetype *${usedPrefix + command}* your text to change the text Again\n\n${resultText}`;
+  let message = `*───「 💖 Dinuwa Official²⁰²³ 💖 Youtube Search 」───*\n\nPlease select the number of the video you want to download by replying to this message with the number listed.\n*Text you requested:* ${text}\n\nRetype *${usedPrefix + command}* your text to change the text Again\n\n${resultText}`;
   conn.reply(m.chat, message, m);
 
   try {
