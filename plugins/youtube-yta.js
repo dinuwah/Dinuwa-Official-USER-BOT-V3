@@ -14,13 +14,13 @@ var handler = async (m, { conn, args }) => {
   const ttl = await yt.title
   const size = await yt.audio[q].fileSizeH
 
-  await m.reply('YouTube audio/mp3 download requests are being processed, please be patient...')
+  await m.reply('YouTube audio/mp3 download requests are being processed, පොඩ්ඩක් හිටපන් සුද්දාහ් 🇱🇰...')
 
   // Tampilkan informasi file beserta thumbnail
   const info = `
-▢ Title: ${ttl}
-▢ Size: ${size}
-▢ Url: ${v}`
+🇱🇰 Title: ${ttl}
+🇱🇰 Size: ${size}
+🇱🇰 Url: ${v}`
 
   // Kirim pesan dan file audio ke user
   await conn.sendMessage(m.chat, { 
