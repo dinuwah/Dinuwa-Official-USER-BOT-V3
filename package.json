@@ -1,7 +1,7 @@
 {
-    "name": "Ikratos-MD-v1",
+    "name": "Dinuwa-Official-USER-BOT-V3",
     "version": "1.0.0",
-    "description": "Ikratos-MD-v1, Simple lightweight Multi-Device Bot.✨🌿",
+    "description": "Dinuwa-Official-USER-BOT-V3, Simple lightweight Multi-Device Bot.💖",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
+    "homepage": "https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V3",
     "author": {
-        "name": "xIKRATOSx"
+        "name": "Dinuwa Official²⁰²³"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xIKRATOSx/Ikratos-MD-v1.git"
+        "url": "git+https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V3.git"
     },
     "bugs": {
-        "url": "https://github.com/xIKRATOSx/Ikratos-MD-v1/issues"
+        "url": "https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V3/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
