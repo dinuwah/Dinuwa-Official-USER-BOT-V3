@@ -12,7 +12,7 @@ let name = await conn.getName(m.sender)
           ['Audio 🎧', usedPrefix + 'opta ' + v.url + ' yes', '\n⌚ *Duration:* ' + v.durationH + '\n⏲️ *Uploaded:* ' + v.publishedTime + '\n👁️ *Views:* ' + v.view + '\n📎 *Url:* ' + v.url]
         ]])
 	})
-	return conn.sendList(m.chat, '*───「 Song Result 」───*', `Please select the type below...\n*The text you requested:* ${text}\n\nRetype *${usedPrefix + command}* your text, to change the text again\n •--𝛸_𝛪𝛫𝑅𝛥𝑇𝛩𝑆_𝛸--• `, author, `Song list 🔎`, listSections, m)
+	return conn.sendList(m.chat, '*───「 Song Result 」───*', `Please select the type below...\n*The text you requested:* ${text}\n\nRetype *${usedPrefix + command}* your text, to change the text again\n •--💝 Dinuwa Official²⁰²³ 💝--• `, author, `Song list 🔎`, listSections, m)
 }
 handler.help = ['ytsearch <query>']
 handler.tags = ['tools']
