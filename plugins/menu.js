@@ -12,32 +12,32 @@ const { generateWAMessageFromContent, proto } = (await import('@adiwajshing/bail
 
 const defaultMenu = {
   before: `
-╭─────═[ INFO USER ]═─────⋆
+Dinuwa Official²⁰²³    
+🍿INFO USER🍿 ───⋆
 │╭───────────────···
-┴│☂︎ *Name:* %name
-⬡│☂︎ *Tag:* %tag
+🍥│ Name: %name
+🍥│ Tag: %tag
 ┬╰────────────────···
 ┠─────═[ TODAY ]═─────⋆
 │╭────────────────···
-┴│    *${ucapan()} %name!*
-⬡│☂︎ *Date:* %week %weton
-⬡│☂︎ *Date:* %date
-⬡│☂︎ *Date Islamic:* %dateIslamic
-┬│☂︎ *Time:* %time
+┴│    ${ucapan()} %name!
+❄️│ Date: %week %weton
+❄️│ Date: %date
+❄️│ The Whatsapp User Bot 
+┬│  Deployed By Dinuwa Official²⁰²³
 │╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│☂︎ *Name Bot:* %me
-⬡│☂︎ *Mode:* %mode
-⬡│☂︎ *Prefix:* [ *%_p* ]
-⬡│☂︎ *Uptime:* %muptime
-┬│☂︎ *Database:* %rtotalreg dari %totalreg
+┴│  Name Bot: Dinuwa Official²⁰²³
+🔥│ Mode: Public VPS
+🔥│ Prefix: [ %_p ]
+🔥│ Uptime: %muptime
+┬│  Database: %rtotalreg dari %totalreg
 │╰────────────────···
 ╰──────────═┅═──────────
-
-⃝▣──「 *INFO CMD* 」───⬣
-│ *Ⓟ* = Premium
-│ *Ⓛ* = Limit
+⃝▣──「 INFO BOT 」───⬣
+│ 💖Owner = Dinuwa Official²⁰²³
+│ 💖Contact = 94740804536
 ▣────────────⬣
 %readmore
 `.trimStart(),
@@ -190,22 +190,27 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
   },
 ]
 
-/*let tek = `✧────···[ Dashboard ]···────✧
-*${ucapan()} ${conn.getName(m.sender)}*
+/*let tek = `▁ ▂ ▃ ▅ Dinuwa Official²⁰²³ ▅ ▃ ▂ ▁
+${ucapan()} ${conn.getName(m.sender)}
 ╭━━━━━━━━━━━━━━━━┈─✧
 ┴
-│⬡ Active for ${mpt}
-│⬡ Prefix : [ ${_p} ]
-│⬡ *${Object.keys(global.db.data.users).length}* User
-│⬡ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Banned chat
-│⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* User Banned
+│🍿 Active for ${mpt}
+│🍿 Prefix : [ ${_p} ]
+│ 🍿 Join PUBLIC group : https://chat.whatsapp.com/IKbvhlnSXFWDnW7ZxSWwLN
+│ 🍿 JOIN SUPPORT GROUP : https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S
+│🍿 *💞When deploy the bot if create an issue, වට්සැප් එකෙන් contact කරපන්..  wa.me/94740804536 💞
+  
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* Ahmad Ali
-┴ ▸ *ᴏᴡɴᴇʀ :* xIKRATOSx
-✧
-┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
-│ Give me a break, SIS ^ω^
+│ 💧 CREATOR: ▁ ▂ ▃ ▅ ▆  Dinuwa Official²⁰²³ ▆ ▅ ▃ ▂ ▁
+┴ 🔥 Github : 
+  🍄https://github.com/dinuwah/Dinuwa-Official-USER-BOT
+❄️ SPECIAL THANKS
+    TO : 
+                                 
+💥Dinuwa Official²⁰²³
+💥Dinethra Oshada
+💥Ikratox Bro
 ╰━━━━━━━━━━━━━━━━┈─◂`
 const listMessage = {
   text: tek,
@@ -348,7 +353,7 @@ const listMessage = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `Hai Sis ${name}!`, 
+    message: `Hi කොහොමද සහෝ 🥃 ${name}!`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch(flaaa + 'Menu')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -373,7 +378,7 @@ const listMessage = {
     }
     }
     }
-    await conn.reply(m.chat, '*Wait a minute Sis. . .*', ftrol) 
+    await conn.reply(m.chat, '*Ohoma poddak idapm besikayo 😂*', ftrol) 
     
     //------------------< MENU >----------------
     
@@ -431,7 +436,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/ImYanXiao/Elaina-MultiDevice'
+                        url: 'https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V3'
                     }
                 },
                 {
@@ -533,13 +538,13 @@ function clockStringP(ms) {
   let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000) % 24
   let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
   let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-  return [ye, ' *Years 🗓️*\n',  mo, ' *Month 🌙*\n', d, ' *Days ☀️*\n', h, ' *Hours 🕐*\n', m, ' *Minute ⏰*\n', s, ' *Second ⏱️*'].map(v => v.toString().padStart(2, 0)).join('')
+  return [ye, ' *Years 🗓️*\n',  mo, ' *Month 🇱🇰*\n', d, ' *Days 🇱🇰*\n', h, ' *Hours 🇱🇰*\n', m, ' *Minute 🇱🇰*\n', s, ' *Second 🇱🇰*'].map(v => v.toString().padStart(2, 0)).join('')
 }
 function ucapan() {
   const time = moment.tz('Asia/Karachi').format('HH')
-  let res = "Why haven\'t you slept yet?? 🥱"
+  let res = "💖 Dinuwa Official²⁰²³ 💖"
   if (time >= 4) {
-    res = "Morning 🌄"
+    res = "GM bza 😂"
   }
   if (time >= 10) {
     res = "Day ☀️"
@@ -548,7 +553,7 @@ function ucapan() {
     res = "Afternoon 🌇"
   }
   if (time >= 18) {
-    res = "night 🌙"
+    res = "GN bza 🌙"
   }
   return res
 }
