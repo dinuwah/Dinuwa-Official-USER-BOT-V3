@@ -51,31 +51,31 @@ let handler = async (m, { conn, isRowner}) => {
   })
 
   let old = performance.now()
-  await m.reply(`${htjava} *ᴛ ᴇ s ᴛ ɪ ɴ ɢ . . .*`)
+  await m.reply(`${htjava} *💖 ᴛᴇsᴛɪɴɢ 💖*`)
   let neww = performance.now()
   let session = fs.statSync(authFolder)
   let speed = neww - old
-  await conn.reply(m.chat,`*s ᴘ ᴇ ᴇ ᴅ*
+  await conn.reply(m.chat,`*💖 s ᴘ ᴇ ᴇ ᴅ 💖*
 ${Math.round(neww - old)} ms
 ${speed} ms
 
-*ʀ ᴜ ɴ ᴛ ɪ ᴍ ᴇ* 
+*❄️ ʀ ᴜ ɴ ᴛ ɪ ᴍ ᴇ ❄️* 
 ${muptime}
 ${readMore}
-*ᴄ ʜ ᴀ ᴛ s*
-• *${groupsIn.length}* Group Chats
-• *${groupsIn.length}* Groups Joined
-• *${groupsIn.length - groupsIn.length}* Groups Left
-• *${chats.length - groupsIn.length}* Personal Chats
-• *${chats.length}* Total Chats
+*💖 ᴄ ʜ ᴀ ᴛ s 💖*
+💖 *${groupsIn.length}* Group Chats
+💖 *${groupsIn.length}* Groups Joined
+💖 *${groupsIn.length - groupsIn.length}* Groups Left
+💖 *${chats.length - groupsIn.length}* Personal Chats
+💖 *${chats.length}* Total Chats
 
 
-*s ᴇ ʀ ᴠ ᴇ ʀ*
-*🛑 ʀᴀᴍ:* ${format(totalmem() - freemem())} / ${format(totalmem())}
-*🔵 ғʀᴇᴇRAM:* ${format(freemem())}
-*📑 sᴇssɪᴏɴ sɪᴢᴇ :* ${format(session.size)}
-*💻 ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
-*🧿 sᴇʀᴠᴇʀ :* ${os.hostname()}
+*🇱🇰 s ᴇ ʀ ᴠ ᴇ ʀ 🇱🇰*
+*🇱🇰 ʀᴀᴍ:* ${format(totalmem() - freemem())} / ${format(totalmem())}
+*🇱🇰 ғʀᴇᴇRAM:* ${format(freemem())}
+*🇱🇰 sᴇssɪᴏɴ sɪᴢᴇ :* ${format(session.size)}
+*🇱🇰 ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
+*🇱🇰 sᴇʀᴠᴇʀ :* ${os.hostname()}
 ${readMore}
 NodeJS Memory Usage*
 ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}
@@ -101,5 +101,5 @@ function clockString(ms) {
   let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000) % 24
   let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
   let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-  return [d, ' *Days ☀️*\n ', h, ' *Hours 🕐*\n ', m, ' *Minute ⏰*\n ', s, ' *Second ⏱️* '].map(v => v.toString().padStart(2, 0)).join('')
+  return [d, ' *Days 🇱🇰*\n ', h, ' *Hours 🇱🇰*\n ', m, ' *Minute 🇱🇰*\n ', s, ' *Second 🇱🇰* '].map(v => v.toString().padStart(2, 0)).join('')
 }
