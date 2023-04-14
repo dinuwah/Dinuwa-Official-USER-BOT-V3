@@ -1,35 +1,56 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://i.ibb.co/cc8jfkX/01.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="https://i.ibb.co/T1DqdYz/thumbnail.jpg" alt="01" border="0" /></a>
 </p>
 
-## PENTING
+## Dinuwa Official²⁰²³
 
 > **Warning**: Don't Trade This Script
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">Dinuwa Official²⁰²³</h1>
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="[https://github.com/dinuwah]"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dinuwa Official²⁰²³+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Dinuwa Official²⁰²³;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Dinuwa Official²⁰²³" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
+### SPECIAL THANKS T0:
+- 💖 | **Dinuwa Official²⁰²³(me)** 
+- 💖 | **Ikratos-MD-v1 owner** 
+- 💖 | **MR Nima** 
+- 💖 | **YanXiao** 
+- 💖 | **DINETHRA**
+- 💖 | **Sahas BRO**     
+---------
+
+### 🇳​​​​​🇪​​​​​🇼​​​​​ 🇺​​​​​🇵​​​​​🇩​​​​​🇦​​​​​🇹​​​​​🇪​​​​​
+
+### 🅱🆄🆃🆃🅾🅽 🅼🅴🆂🆂🅰🅶🅴 🅴🆁🆁🅾🆁 🅵🅸🆇
+### 🅷🅴🆁🅾🅺🆄 🅳🅴🅿🅻🅾🆈 🅴🆁🆁🅾🆁 🅵🅸🆇
+
+                    
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/94740804536">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:bmclips001@gmail.com">
+  <a href="mailto:dinethraoshada5@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923470027813) 
+|    Platform      | :white_check_mark: Pros          |:x: Cons  |
+| ----------- | ------------------ |-------|
+| <b>Repl.it<b>   | - <b><i>Fastest Deloy.<br> - Faster than Railway / Koyeb. <br> - 24*7 work. <br> - No Crash and auto reboot.<br> - 100% Commands work.<b><i> | <b><i> - No Cons. Just Deploy and Have fun.<b><i>
+| <b>Railway<b>    | - <b><i>Fast Deloy.<br> - Faster than Koyeb. <br> - 24*7 work. <br> - Auto Reboot on Crash.<br> - 100% Commands work.<b><i>    | <b><i> - Requires a 6 months old GitHub Account to verify.<br> - 500 hours per monthlyusage.<br> - Crashing Due to 500 mb limited RAM. <br> - Not suitable for newly joined users.<b><i>
+| <b>Heroku ( Not Compatible )<b> | - <b><i>Fastest Deloy.<br> - Faster than Railway / Koyeb. <br> - 24*7 work. <br> - No Crash and auto reboot.<br> - 100% Commands work.<b><i> |<b><i> - No Cons. Just Deploy and Have fun.<b><i>|
+    
+[![Dinuwa Official²⁰²³BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740804536) 
 ---------
 
 ### a little about this bot
@@ -40,139 +61,54 @@
 ---------
 
 ## ``Group Panelku Hosting``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xIKRATOSx/Ikratos-MD-v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V2)
 ---------
 
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo (Don't forget to give a star)
-- 2. ***Get [SESSION-ID](https://scanner.xikratosx.repl.co) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 2. ***Get [SESSION-ID](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
 
 ## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://scanner.xikratosx.repl.co)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+# 
+
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
+* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)  
 ---------
 
-## ```USER RAILWAY```
+## ```DEPLOY IN RAILWAY```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
-## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
-## TERMUX USER
-```bash
-$ pkg upgrade && pkg update
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-$ cd Ikratos-MD-v1
-$ npm i 
-```
-If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```bash
-$ node .
-```
+## ```DEPLOY IN REPLIT```
+[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
 
-#### For android 10 and above don't use npm, use yarn install
-```bash
-$ pkg install yarn -y
-$ yarn install
-```
----------
+## ```DEPLOY IN MOGENIUS```
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
-## TERMUX WITH UBUNTU
+## How to deploy in replit
 
-```bash
-apt update && apt full-upgrade
-apt install wget curl git proot-distro
-proot-distro install ubuntu
-echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
-ubuntu
-```
----------
+- 🔥 1.First fork that repo.
+- 🔥 2.Go to the config js and change your bot name and number and save it.
+- 🔥 3.Then scan qr and upload the creds json session.
+- 🔥 4.After that go to your replit account and press the create button.
+- 🔥 5.After press the create button and touch the import from github,After that go to your fork repo and copy your            fork github link .
+- 🔥 6.After that wait to automatically lode to node.js and press import button
+- 🔥 7.Then go to the shell and type npm update and wait 4-5 minutes.
+- 🔥 8.Then dispaly the Dinuwa Official²⁰²³ USER BOT in the shell.
+- 🔥 9.Then go to the console and press run button.
+- 🔥 10.Wait 2 minutes to load to qr and scan it in your whatsapp account.
+- 🔥 11.Then copy the link of deploy replit and add to it uptimer robot site.
 
-[ INSTALLING REQUIRED PACKAGES ]
-
-```bash
-ubuntu
-apt update && apt full-upgrade
-apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
-```
-
----------
-
-[ INSTALLING NODEJS & Ikratos-MD]
-
-```bash
-ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-cd Ikratos-MD-v1
-npm install
-npm update
-```
-
----------
-
-## FOR WINDOWS/VPS/RDP USER 💻
-
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
-
-```bash
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
-cd Ikratos-MD-v1
-npm install
-npm update
-```
-
----------
-
-## Run ⏳
-
-```bash
-node .
-```
----------
-
-## ```How To Customise Message Display```
-```js
-// Syntax
-conn.sendButton(
-      jid, // jid of the user to send the message to
-      text, // text to send
-      foooter, // footer to send
-      buffer, // buffer to send (optional), if you want to send button image, location, etc
-      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
-      quoted, // quoted message to send (optional)
-      options // options to send, example { asLocation: true }
-)
-
-// example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
-      ['Hello', 'hello'], ['Bye', 'bye']
-])
-// example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
-      [['Hello', 'hello'], ['Bye', 'bye']], 
-      null, { asLocation: true }
-)
-```
----------
-
-### 📮 S&K
+### 📮 හොරුන්ට අසු නොවන්න 🤣
 1. Not For Sale
 2. Don't forget give star this repo
 3. Don't use this repository wrong!
@@ -186,12 +122,8 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 <h1 align="center">RECODED BY</h1>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="300" height="300" alt="xIKRATOSx"/></a>
+<a href="https://github.com/dinuwah"><img src="https://i.imgur.com/V0AfM7N.jpeg" width="300" height="300" alt="Dinuwa Official²⁰²³"/></a>
 </p>
 
 ----------
 
-<h1 align="center">THANKS TO</h1>
-<p align="center">
-<a href="https://github.com/BlackAmda"><img src="https://github.com/BlackAmda.png" width="300" height="300" alt="BlackAmda"/></a>
-</p>
