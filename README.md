@@ -72,14 +72,14 @@
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo (Don't forget to give a star)
-- 2. ***Get [SESSION-ID](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 2. ***Get [SESSION-ID](https://replit.com/@suddhs/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file in "session" folder
 - 4. Simply click Deploy to heroku button above
 
 ## ```QR SCAN```
 # 
 
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://scanner.xikratosx.repl.co)
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
 * [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
 * [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1)  
 ---------
