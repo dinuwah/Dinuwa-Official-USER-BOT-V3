@@ -79,9 +79,9 @@
 ## ```QR SCAN```
 # 
 
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
-* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1#thumbnail.jpg)
-* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official2023-USER-BOT-QR?output%20only=1&lite=1)  
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official-USER-BOT-V3?output%20only=1&lite=1#thumbnail.jpg)
+* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://dinuwa-official-user-bot-v3.suddhs.repl.co)
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official-USER-BOT-V3?output%20only=1&lite=1#thumbnail.jpg)  
 ---------
 
 ## ```DEPLOY IN RAILWAY```
