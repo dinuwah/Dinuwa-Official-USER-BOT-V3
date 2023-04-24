@@ -21,12 +21,14 @@
 ---------
 
 ### SPECIAL THANKS T0:
-- 💖 | **Dinuwa Official²⁰²³(me)** 
+- 💖 | **Dinuwa Official²⁰²³(me)**
+    
 - 💖 | **Ikratos-MD-v1 owner** 
+    
 - 💖 | **MR Nima** 
-- 💖 | **YanXiao** 
+
 - 💖 | **DINETHRA**
-- 💖 | **Sahas BRO**     
+     
 ---------
 
 ### 🇳​​​​​🇪​​​​​🇼​​​​​ 🇺​​​​​🇵​​​​​🇩​​​​​🇦​​​​​🇹​​​​​🇪​​​​​
