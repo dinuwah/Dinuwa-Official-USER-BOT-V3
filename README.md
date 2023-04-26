@@ -81,8 +81,8 @@
 ## ```QR SCAN```
 # 
 
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official-USER-BOT-V3?output%20only=1&lite=1#thumbnail.jpg)
-* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://dinuwa-official-user-bot-v3.suddhs.repl.co)
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://dinuwa-official-user-bot-v3.suddhs.repl.co)
+* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official-USER-BOT-V3?output%20only=1&lite=1#thumbnail.jpg)
 * [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@suddhs/Dinuwa-Official-USER-BOT-V3?output%20only=1&lite=1#thumbnail.jpg)  
 ---------
 
