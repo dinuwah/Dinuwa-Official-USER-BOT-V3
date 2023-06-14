@@ -1,32 +1,32 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn }) => {
   let caption = `
-╭────═[💖Dinuwa Official²⁰²³💖]═────⋆
+╭────═[💝 Queen Hentai 💝]═────⋆
 │╭───────────────···
 ┴│☂︎    HEY ${conn.getName(m.sender)}
-⬡│☂︎ 🤪I\'m alive now..Dinuwa Official²⁰²³🥰
+⬡│☂︎ 🤪I\'m alive now..💝 Queen Hentai 💝🥰
 ┬╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│            *Dinuwa Official²⁰²³*
+┴│            *💝 Queen Hentai 💝*
 ⬡│☂︎ *WHATSAPP BOT CODED BY👇🏽*
 ⬡│☂︎           *Dinuwa Official²⁰²³*
 ⬡│☂︎           *OWNER:Dinuwa Official²⁰²³*
 ⬡│☂︎ *wa.me/94740804536*
 ┏ ┅ ━━━━━━━━━ ┅ ➔
-┇ 《 Dinuwa MD BOT 》
+┇ 《 💝 Queen Hentai 💝 》
 ┣ ┅ ━━━━━━━━━ ┅ ➔
 ┃  
 ┃ 
 ┃ 
-┃ ❤️ Install Bot  : https://github.com/dinuwah/Dinuwa-Official-USER-BOT-V3
+┃ ❤️ Install Bot  : https://github.com/dinuwah/QUEEN-HENTAI
 ┃ 
 ┃ ❤️ Join PUBLIC group : https://chat.whatsapp.com/IKbvhlnSXFWDnW7ZxSWwLN
   💖 JOIN SUPPORT GROUP : https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S
 ┃ 
 ┃ ❤️ RamUsage  : 20.23 GB / 62.14 GB
 ┃ 
-┃ ❤️ Version  : V3
+┃ ❤️ Version  : *V1*
 ┃
 ┃ ❤️ Time : 13:09:07
 ┃ 
@@ -34,10 +34,10 @@ let handler = async (m, { conn }) => {
 ┃
 ┃ ❤️ Powered By  +94740804536
 ┗ ┅ ━━━━━━━━━ ┅ ➔
-❤️Dinuwa MD BOT ❤️
+💝 Queen Hentai 💝 BOT ❤️
 │╰────────────────···
 ╰──────────═┅═───────
-*Thanks For Using 💖Dinuwa Official²⁰²³💖*
+*Thanks For Using *💝 Queen Hentai 💝*
 `.trim()
   m.reply(caption)
 }
