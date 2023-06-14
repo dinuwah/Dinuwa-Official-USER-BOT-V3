@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   let caption = `
 ╭────═[💝 Queen Hentai 💝]═────⋆
 │╭───────────────···
-┴│☂︎    HEY ${conn.getName(m.sender)}
+┴│☂︎    HEY ${name}
 ⬡│☂︎ 🤪I\'m alive now..💝 Queen Hentai 💝🥰
 ┬╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
@@ -24,11 +24,11 @@ let handler = async (m, { conn }) => {
 ┃ ❤️ Join PUBLIC group : https://chat.whatsapp.com/IKbvhlnSXFWDnW7ZxSWwLN
   💖 JOIN SUPPORT GROUP : https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S
 ┃ 
-┃ ❤️ RamUsage  : 20.23 GB / 62.14 GB
+┃ ❤️ RamUsage  : ${uptime}
 ┃ 
 ┃ ❤️ Version  : *V1*
 ┃
-┃ ❤️ Time : 13:09:07
+┃
 ┃ 
 ┃ ❤️ Owner : Dinuwa Official 
 ┃
